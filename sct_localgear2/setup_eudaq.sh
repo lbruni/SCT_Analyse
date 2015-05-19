@@ -1,0 +1,1 @@
+export MARLIN_DLL=/afs/cern.ch/user/l/lbruni/Eutelescope/v01-17-05/Eutelescope/trunk/lib/libEutelescope.so:/afs/cern.ch/user/l/lbruni/Eutelescope/v01-17-05/eudaq/lib/libNativeReader.so
