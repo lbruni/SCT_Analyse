@@ -183,7 +183,7 @@
 <processor name="SaveAsRoot" type="EUTelOutputTTree">???---
 <!--EUTelProcessorNoisyClusterMasker masks pulses which contain hot pixels. For this, the quality field of pulses is used to encode the kNoisyCluster enum provided by EUTelescope.-->
 <!--Input of zero suppressed data, still containing hot pixels-->
-<parameter name="OutputPath" type="string" value="missing.root"/>
+<parameter name="OutputPath" type="string" value="@FilePrefix@_missing.root"/>
 <!--verbosity level of this processor ("DEBUG0-4,MESSAGE0-4,WARNING0-4,ERROR0-4,SILENT")-->
 <!--parameter name="Verbosity" type="string" value=""/-->
 

@@ -25,7 +25,7 @@
                     rotationXY="0.0"
                     sizeX="21.2"
                     sizeY="10.6"
-                    thickness="0.036"
+                    thickness="0.014"
                     radLength="93.660734"
 			/>
           <sensitive 	ID="0"
@@ -58,7 +58,7 @@
                     rotationXY="0.0"
                     sizeX="21.2"
                     sizeY="10.6"
-                    thickness="0.036"
+                    thickness="0.014"
                     radLength="93.660734"
 			/>
           <sensitive 	ID="1"
@@ -91,7 +91,7 @@
                     rotationXY="0.0"
                     sizeX="21.2"
                     sizeY="10.6"
-                    thickness="0.036"
+                    thickness="0.014"
                     radLength="93.660734"
 			/>
           <sensitive 	ID="2"
@@ -124,7 +124,7 @@
                           rotationXY="0.0"
                           sizeX="100"
                           sizeY="100"
-                          thickness="0.036"
+                          thickness="0.300"
                           radLength="93.660734"
                                   />
           <sensitive      ID="8"
@@ -160,7 +160,7 @@
                           rotationXY="0.0"
                           sizeX="21.2"
                           sizeY="10.6"
-                          thickness="0.036"
+                          thickness="0.014"
                           radLength="93.660734"
                           />
           <sensitive      ID="3"
@@ -193,7 +193,7 @@
                           rotationXY="0.0"
                           sizeX="21.2"
                           sizeY="10.6"
-                          thickness="0.036"
+                          thickness="0.014"
                           radLength="93.660734"
                           />
           <sensitive      ID="4"
@@ -229,7 +229,7 @@
                           rotationXY="0.0"
                           sizeX="20.0"
                           sizeY="16.8"
-                          thickness="0.700"
+                          thickness="0.500"
                           radLength="65.000000"
                                         />
           <sensitive      ID="20"
@@ -266,7 +266,7 @@
                           rotationXY="0.0"
                           sizeX="21.2"
                           sizeY="10.6"
-                          thickness="0.036"
+                          thickness="0.014"
                           radLength="93.660734"
                           />
           <sensitive      ID="5"
